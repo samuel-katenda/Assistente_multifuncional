@@ -28,6 +28,9 @@ O objetivo do projeto é criar um assistente pessoal extensível, onde novas fun
 meu_bot/
 │
 ├── main.py
+|___menu_sistema.py
+|___controle.py
+|___key_api.py
 ├── dispositivo/
 ├── internet/
 ├── jogos/
