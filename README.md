@@ -1,4 +1,4 @@
-# 🤖 Meu Bot Python
+# 🤖 Bot Python
 
 Um bot multifuncional desenvolvido em Python para automatizar tarefas e reunir várias ferramentas num único programa.
 
