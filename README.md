@@ -67,11 +67,11 @@ python main.py
 ## 👨‍💻 Autor
 
 Samuel Katenda
+programador na cena
 
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
 
 
-OBS:
-Por questão de falha ao enviar os arquivos o ficheiro key_api.py deve ser colocada dentro da pasta internet para que tudo funcione corretamente.
+
