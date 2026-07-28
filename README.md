@@ -67,7 +67,7 @@ python main.py
 ## 👨‍💻 Autor
 
 Samuel Katenda |
-Programador na cena
+Programador
 
 ## 📄 Licença
 
